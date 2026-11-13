@@ -1,0 +1,5 @@
+[
+  { "source": "OVEY", "id": "1", "title": "식생활 조사", "status": "OPEN", "updatedAt": "2026-10-13T09:00:00Z", "rewardMin": 300, "rewardMax": 300, "estimatedMinutes": 7 },
+  { "source": "OVEY", "id": "2", "title": "라이프 스타일 조사", "status": "OPEN", "updatedAt": "2026-10-13T09:30:00Z", "rewardMin": 200, "rewardMax": 200, "estimatedMinutes": 5 },
+  { "source": "OVEY", "id": "3", "title": "생활용품 조사", "status": "CLOSED", "updatedAt": "2026-10-13T10:00:00Z", "rewardMin": 500, "rewardMax": 500, "estimatedMinutes": 12 }
+]

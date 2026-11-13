@@ -1,0 +1,5 @@
+[
+  { "source": "PARTNER", "id": "1", "title": "일상생활 관련 조사(해외조사)", "status": "OPEN", "updatedAt": "2026-10-13T09:45:00Z", "rewardMin": 100, "rewardMax": 1000, "estimatedMinutes": 15 },
+  { "source": "PARTNER", "id": "2", "title": "Shopping habits survey", "status": "OPEN", "updatedAt": "2026-10-13T08:00:00Z", "rewardMin": 150, "rewardMax": 150, "estimatedMinutes": 4 },
+  { "source": "PARTNER", "id": "3", "title": "주거생활 조사", "status": "OPEN", "updatedAt": "2026-10-13T09:00:00Z", "rewardMin": 300, "rewardMax": 1000, "estimatedMinutes": 10 }
+]
